@@ -15,7 +15,7 @@
 > 💼 **Research Assistant** at [**Department of Robotics Engineering**](https://sites.google.com/view/aimpuet/home) from UET, VNU (2025.6 ~ Current)  
  
 
-### 👀 Who wants to know more about me, click it!
+### 🔗 Connect with me
 
 <div align=center>
 
