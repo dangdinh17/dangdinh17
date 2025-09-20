@@ -1,16 +1,32 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Dang%20Bui%20Dinh&fontSize=70&animation=fadeIn)
 
-<!--
-**dangdinh17/dangdinh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, This is Dang Bui Dinh ! 👋
 
-Here are some ideas to get you started:
+### Education  
+> 🎓 **B.S.Eng in Robotics Engineering** at [**Department of Robotics Engineering**](https://sites.google.com/view/aimpuet/home) from UET, VNU, Hanoi, Vietnam(2021.9 ~ 2025.6)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research Interest  
+> 🔬 **Computer Vision** - Object Detection, Segmentation, Image and Video Processing for Machine Vision
+
+> 🔬 **Video Coding** - Video Compression Standard, Video Coding for Machine
+
+### Careers
+
+> 💼 **Research Assistant** at [**Department of Robotics Engineering**](https://sites.google.com/view/aimpuet/home) from UET, VNU (2025.6 ~ Current)  
+ 
+
+### 👀 Who wants to know more about me, click it!
+
+<div align=center>
+
+
+
+[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://dangdinh17.github.io/docs/CV/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyoung960302@gmail.com)](mailto:dangdinh1713@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DEIog-oAAAAJ&hl=en)
+
+</div>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=footer&animation=fadeIn)
