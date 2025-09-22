@@ -22,7 +22,7 @@
 
 
 [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://dangdinh17.github.io/docs/CV/)
-[![Site](http://img.shields.io/badge/-Site-black?style=flat-square&logo=githubpages&logoColor=white)](https://dangdinh17.github.io)
+[![Site](http://img.shields.io/badge/-Site-blue?style=flat-square&logo=githubpages&logoColor=white)](https://dangdinh17.github.io)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyoung960302@gmail.com)](mailto:dangdinh1713@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DEIog-oAAAAJ&hl=en)
 
