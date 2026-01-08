@@ -3,6 +3,8 @@
 ### Hi, This is Dang Bui Dinh ! 👋
 
 ### Education  
+> 🎓 **M.S. in Electronic Engineering** at [**University of Engineering and Technology**](https://sites.google.com/view/aimpuet/home) from UET, VNU, Hanoi, Vietnam(2025.11 ~ Now)  
+
 > 🎓 **B.S.Eng in Robotics Engineering** at [**Department of Robotics Engineering**](https://sites.google.com/view/aimpuet/home) from UET, VNU, Hanoi, Vietnam(2021.9 ~ 2025.6)  
 
 ### Research Interest  
