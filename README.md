@@ -10,7 +10,7 @@
 ### Research Interest  
 > 🔬 **Computer Vision** - Object Detection, Segmentation, Image and Video Processing for Machine Vision
 
-> 🔬 **Video Coding** - Video Compression Standard, Video Coding for Machine
+> 🔬 **Video Coding** - Video Compression, Video Coding for Machine
 
 ### Careers
 
